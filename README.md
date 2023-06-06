@@ -1,6 +1,4 @@
-<h1 align="center">
-  ## Ali Ghorbani
-</h1>
+<h1 align="center">Ali Ghorbani</h1>
 
 <h4 align="left">The Junior full stack developer! Everyone knows me as a JS developer!</h4>
 
