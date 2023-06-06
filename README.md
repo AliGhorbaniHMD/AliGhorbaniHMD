@@ -1,13 +1,19 @@
 <h1 align="center">
   ## Ali Ghorbani
 </h1>
+
 <h4 align="left">The Junior full stack developer! Everyone knows me as a JS developer!</h4>
 
+-----
+
+> + Interested in new experiences and learning.
+> + Experienced in teamwork and group work.
+> + And ... .
+
 ## My expertise :
->You can connect with me on virtual networks:
+
 >
 <p align="center">
-
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -20,14 +26,16 @@
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  
-
 </p>
 
 ## My social :
+>You can connect with me on virtual networks:
 <a href="https://instagram.com/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 <a href="https://t.me/HMD_Programmer">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://t.me/HMD_Programmer">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-2CA5E0?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
