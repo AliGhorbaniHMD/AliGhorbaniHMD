@@ -2,8 +2,6 @@
 
 <h4 align="left">The Junior full stack developer! Everyone knows me as a JS developer!</h4>
 
------
-
 > + Interested in new experiences and learning.
 > + Experienced in teamwork and group work.
 > + And ... .
