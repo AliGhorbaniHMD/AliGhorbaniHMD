@@ -4,11 +4,13 @@
 
 > + Interested in new experiences and learning.
 > + Experienced in teamwork and group work.
+> + Creative in problem solving.
 > + And ... .
 
 ## My expertise :
 
->
+My skills are as follows:
+
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,7 +27,9 @@
 </p>
 
 ## My social :
->You can connect with me on virtual networks:
+
+You can connect with me on virtual networks:
+
 <a href="https://instagram.com/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
